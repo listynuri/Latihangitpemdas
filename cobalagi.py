@@ -1,0 +1,2 @@
+print("ITENAS")
+print("Informatika")
